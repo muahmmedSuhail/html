@@ -1,0 +1,439 @@
+*{
+        padding:0;
+        margin:0;
+        text-decoration: none;
+        list-style: none;
+        font-size: 13px;
+        font-family: sans-serif;
+        
+
+}
+ 
+
+
+
+
+
+.image1{
+    position: absolute;
+    padding-left: 78px;
+    width: 112px;
+    height: 23px;
+    display: inline block;
+    margin-top: 19px;
+    
+
+}
+#a{
+    margin-left: 584px;
+    
+    color: black;
+}
+#a:hover{
+    border-bottom: black solid;
+}
+ 
+#h1{
+    width: 17px;
+    margin-left: 17px;
+}
+#h2{
+    width: 17px;
+    margin-left:27px
+
+}
+#h3{
+    position: absolute;
+    width: 36px;
+    margin-left: 42px;
+    margin-top: 9px;
+}
+ 
+ 
+
+ 
+.firstli ul li{
+    display: inline-block;
+    line-height: 8px;
+    margin: 27px -194px;
+    margin-left: 211px;
+}
+ 
+.firstli ul li a{
+    color:rgb(0, 0, 0);
+    font-size: 13px;
+    font-family: sans-serif;
+    display: inline;
+    
+    
+     
+}.firstli ul li a:hover{
+    border-bottom: black solid;
+}
+ 
+
+
+
+
+.headic a{
+    display: inline;
+     margin-left:150px;
+    
+    color:black;
+    background: black;
+     
+}
+.iconuser{
+     position:absolute;
+    left: 1200px;
+    top: 30px; 
+}
+.bluebar{
+    width: 100%;
+    height: 56px;
+    background:#0067b8;
+    display: flex;
+    justify-content: center;  
+    
+    align-items: center;
+}
+.bluebar a{
+    font-size:medium;
+    color:white;
+    /* margin-top: 0;
+    margin-left: 0; */
+
+}
+
+.bluebar a:hover{
+    border-bottom: white solid;
+}
+
+
+ .mainpart{
+    width: 99%;
+    height: 525px;
+    background: #b8d7ff;
+    margin-left: 7px;
+    margin-top: -1px;
+}
+ 
+ 
+ .mainimg{
+    width:60%;
+    height: 525px;
+    float:right;
+    
+ }
+ 
+ .maximise{
+   font-size: 28px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: left;
+    position:absolute;
+    left: 115px;
+    top: 210px;
+    line-height: 35px;
+    font-weight: inherit;
+     
+
+    
+ }
+ .subtitls{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    position:absolute;
+    left: 115px;
+    top:300px;
+    line-height:25px ;
+ }
+
+ .f-button{
+    position: absolute;
+    top:400px;
+    left: 115px;
+    font-weight: bold;
+     font-size: 15px;
+    width: 135px;
+    height: 40px;
+    background-color: #0067b8;
+    border: none;
+    border-radius: 2px;
+   
+     
+
+ }
+.f-button a { 
+    color:white;
+    font-size: 15px;
+
+    
+}
+
+.forup{
+    position: absolute;
+    top: 409px;
+    left: 280px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    color:black;
+    font-weight: 500;
+    
+}
+.slideicon{
+     
+    width: 15px;
+    height:15px;
+    margin-left: 678px;
+    
+     
+}
+
+
+
+  
+.secondli{
+     
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin: 143px 218px;
+}
+.secondli li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height:27px;
+    margin-top:-31px;
+}
+.secondli li a{
+     
+    font-size:15px;
+    color:#0067b8;
+    font-weight:bold;
+    text-decoration: underline;
+
+}
+
+.secondli img{
+    width: 44px;
+    height: 40px;
+
+}
+
+.frp{
+    display: flex;
+    justify-content:space-around;
+    margin-top: -70px;
+    width: 1138px;
+    margin-left: 80px;
+    
+}
+
+.frp img{
+    width: 250px;
+    height:150px;
+
+}
+.frp h1{
+    font-size: 24px;
+    /* font-weight: normal; */
+    margin-top: 9px;
+}
+
+.frp p{
+    font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 10px;
+}  
+
+
+.frp a{
+    display: inline-block;
+    color:#0067b8;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.frp a:hover{
+    text-decoration: underline;
+}
+
+ 
+.five img{
+    width: 1135px;
+    height: 541px;
+    margin-left: 65px;
+    margin-top: 105px;
+}
+
+.five h1{
+    margin-top: -405px;
+    margin-left: 171px;
+    font-size: 33px;
+    font-weight: normal;
+}
+ .five p{
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 172px;
+    font-weight: normal;
+    line-height: 26px;
+}
+
+.five button {
+    background:#0067b8;
+    width: 160px;
+    height: 40px;
+    border: none;
+    margin-left:  174px;
+    margin-top:  20px;
+    
+}
+.five button a{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sixth{
+    display: flex;
+    width: 1176px;
+    height: fit-content;
+    justify-content: space-around;
+    margin-left: 45px;
+    margin-top: 288px;
+
+    
+}
+ 
+
+.sixth img{
+    width: 250px;
+    height:150px;
+}
+
+.sixth h1{
+    font-size: 20px;
+    margin-top: 14px;
+    
+}
+
+.sixth p{
+    font-size: 15px;
+    margin-top: 12px;
+    line-height: 23px;
+}
+.sixth h2{
+    font-size: 27px;
+    margin-top: -310px;
+    margin-left: 0px;
+    font-weight: 600;
+}
+ 
+.sixth a{
+    color: #0067b8;
+    font-size: 16px;
+    line-height: 56px;
+}
+
+
+.sixth a:hover{
+    text-decoration: underline;
+}
+
+.Follow{
+     display:flex;
+    width: 100%;
+    height: 300px;
+    color:black */
+
+}
+.social{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 121px;
+    height:156px ;
+
+}
+.social img{
+    width: 25px;
+    height: 20px;
+    margin-left: 31px;
+    margin-top: -58px;
+    margin: 24px 14px;
+
+}
+.social h1{
+    font-size:17px ;
+    font-weight:lighter ;
+
+}
+#Follow h1{
+    margin-top: -60px;
+    margin-left: 71px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: system-ui;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height:300px;
+    background:#effdffbf
+}
+.footer ul{
+    margin-top:60px;
+   margin-left:48px;
+}
+.footer ul h3{
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.footer ul a{
+    color: rgb(0, 0, 0);
+    font-size: 11px;
+    line-height: 27px;
+}
+
+.footer ul a:hover{
+    text-decoration: underline;
+
+}
+ .earth img{
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    margin-top: 252px;
+    margin-left: -1168px;
+}
+ 
+.earth h6{
+    position: absolute;
+    margin-top: 256px;
+    margin-left: -1132px;
+    font-weight: lighter;
+}
+ 
+ .last{
+    display: flex;
+    margin-top: 218px;
+    margin-left: -709px;
+    transform: translateY(3vw);
+    /* color: aqua; */
+    /* background-color: red; */
+    height: fit-content;
+
+ }
+ .last h1{
+    margin-left: 30px;
+    font-weight: normal;
+ }
+ 
+ 

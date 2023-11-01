@@ -1,0 +1,43 @@
+.outer{
+    width:100%;
+    height: 567px;
+    background:rgb(6, 2, 78);
+    float:left;
+}
+bodY{
+    margin:0;
+}
+
+.header{
+    width: 40%;
+    height:400px;
+    background:rgb(97, 2, 62);
+    float:left;
+       
+
+
+
+}
+.two{
+    width:200px;
+    height: 200px;
+    background:white;
+    float:left;
+    padding-left:50px;
+}
+.three{
+    width: 200px;
+    height: 200px;
+    background:red;
+    float:left;
+    padding-left:10px;
+
+}
+.four{
+    width: 200px;
+    height: 200px;
+    background:orange;
+    float:left;
+    padding-left: 300px;
+    
+}

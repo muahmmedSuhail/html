@@ -1,0 +1,419 @@
+
+ body{
+    margin: 0;
+    height: 2000px;
+ }
+   
+
+
+.rapper{
+    width: 98.7vw;
+    height: 115%;
+    overflow: hidden;
+   
+}
+
+.location{
+     background: rgb(255, 255, 255);
+     height: 82px;
+     display: flex;
+    justify-content: space-evenly;
+    border-bottom: 0.5px solid black;
+}
+     
+ 
+
+.location h5{
+    margin-left: -119px;
+    font-size: 15px;
+    border-bottom: black;
+    margin-top: 10px;
+}
+ 
+ 
+ 
+.location button{
+    background: black; 
+    width: 98px;
+    height: 34px;
+    border-radius: 124px;
+    position: absolute;
+    margin-left: 351px;
+    margin-top: 3px;
+}
+ 
+.location button a{
+    color:white;
+}
+
+.location img{
+    margin-left: -502px;
+    position: absolute;
+    margin-top: 8px;
+}
+ 
+ 
+
+.header{
+    display: flex;
+    
+}
+#hd1{
+    margin-left: 143px;
+    margin-top: 15px;
+}
+ 
+ 
+#hd2{
+    margin-left: 597px;
+    margin-top: 14px;
+}
+ 
+ #hd3{
+    width: 53px;
+    margin-left: 1px;
+    margin-top: 25px;
+ }
+  .header h5{
+    margin-left: 41px;
+    margin-top: 41px;
+    font-weight: bold;
+    font-family: sans-serif;
+    /* font-size: 13px;
+    font-family: system-ui; */
+}  
+  
+#sign{
+    margin-left: 28px;
+    margin-top: 41px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+
+.second{
+    width: 100vw;
+    height: 80px;
+    background: black; 
+    display: flex;
+
+}
+.second h1{
+    color: white;
+    font-size: 16px;
+    margin-left: 366px;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+.second button{ 
+    background: #bb0000;
+    width: 172px;
+    height: 49px;
+    border: none;
+    border-radius: 124px;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+ .second button a{
+    color: white;
+    text-decoration: none;
+ }
+
+ .fourth{
+    margin-top:97px;
+        
+    
+ }
+
+ .fourth  h1{
+    display: inline;
+    margin-left: 140px;
+    font-family: system-ui;
+
+ }
+ .line{
+    width: 49%;
+    height: 2px;
+    border-bottom: 2px solid #c9d8d9;
+    margin-left: 485px;
+    margin-top:-17px;
+
+}
+
+.fifth{
+    display: flex;
+    gap: 59px;
+    /* justify-content: space-evenly; */
+    margin-left: 143px;
+    
+}
+
+.sixth .shl{
+width: 120px;
+height: 120px;
+background: #bb0000;
+}
+
+
+.fifth img{
+    width: 196px;
+    height: 135px;
+    margin-top: 67px;
+}
+
+.fifth h3{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 42px;
+  
+}
+
+
+
+
+.sixth{
+    display: flex;
+    gap: 59px;
+    /* justify-content: space-evenly; */
+    margin-left: 143px;
+     
+}
+
+
+.fifth img{
+}
+.sixth img{
+    width: 196px;
+    height: 135px;
+    margin-top: 67px;
+}
+.sixth h3{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 42px;
+
+}
+
+
+
+.seven{
+    width: 100%;
+    height: 932px;
+    background: rgb(0, 0, 0);
+    margin-top: 241px;
+
+}
+
+.bar1{
+     
+    background: red;
+    width: 21px;
+    height: 54px;
+    margin-left: 199px;
+    position: absolute;
+    left: 17px;
+}
+ 
+ 
+.bar2{
+      
+    background: red;
+    width: 23px;
+    height: 54px;
+    margin-left: 252px;
+    margin-top: -106px;
+}
+ 
+.bar3{
+      
+    background: red;
+    width: 23px;
+    height: 53px;
+    margin-left: 289px;
+    margin-top: -54px;
+}
+ 
+span {
+    display: flex;
+    color: white;
+    font-family: system-ui;
+    justify-content: space-around;
+}
+
+span h1{
+    margin-top: 18px;
+    margin-left: -25px;
+}
+
+
+span h4 a{
+    font-size: 12px;
+    color: white;
+    text-decoration: none;
+     
+    display: inline;
+}
+ 
+
+.offers{
+    display: flex;
+    gap: 62px;
+    margin-left: 216px;
+    margin-top:70px;
+}
+ 
+.offers h1{
+    font-size: 21px ;
+    color: black;
+    margin-left: 23px;
+}
+.offers h6{
+    margin-top: -2px;
+    margin-left: 14px;
+    color: black;
+    font-size: 10px;
+}
+
+.offers a{
+    color: black;
+    font-size: 12px;
+    margin-left: 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+     
+ 
+
+.offers button{
+  
+    width: 126px;
+    height: 44px;
+    border-radius: 66px;
+    display: inline;
+    margin-left: 26px;
+    background: rgb(255, 255, 255);
+
+}
+.offers button:hover{
+    background-color: black;
+}
+   
+
+.offers button a:hover{
+    color:rgb(255, 255, 255);  
+}
+ 
+ 
+     
+    
+ 
+ 
+.one{
+    display: flex;
+    flex-direction: column;
+    width: 244px;
+    background: rgb(223, 213, 213);
+    border-radius: 25px;
+}
+
+.one img{
+    width: 100%;
+    height: 144px;
+    border-radius: 25px 25px 0 0px;
+    margin-top: -6px;
+}
+ 
+
+.Redeem{
+
+    display: flex;
+
+}
+ 
+
+
+/* span img{
+    width: 30px;
+    height: 30px;
+
+} */
+
+    
+ .two{
+    display: flex;
+    flex-direction: column;
+    width: 244px;
+    background:rgb(223, 213, 213) ;
+    border-radius: 25px;
+}
+ 
+ .two img{
+    width: 100%;
+    height: 144px;
+    border-radius: 25px 25px 0 0px;
+    margin-top: -6px;
+}
+
+ .three{
+    display: flex;
+    flex-direction: column;
+    width: 244px;
+    background:rgb(223, 213, 213) ;
+    border-radius: 25px;
+}
+ 
+.three img{
+    width: 100%;
+    height: 144px;
+    border-radius: 25px 25px 0px 0px;
+    margin-top: -6px;
+}
+
+
+.footer{
+    display: flex;
+    gap: 32px;
+    margin-left: 389px;
+    margin-top: 112px;
+}
+.footer img{
+    margin-left: -155px;
+  
+    margin-top: 20px;
+}
+
+.footer h4 a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: system-ui;
+}
+
+}
+ 
+ 
+
+
+ 
+ 
+
+     
+    
+ 
+
+ 
+ 
+
+     
+    
+ 
+
+
+ 
+
+
+
+ 
+
